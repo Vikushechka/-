@@ -19,3 +19,17 @@
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 
 [“Russia”, “Denmark”, “Kazan”] → []
+
+
+# Решение:
+Блок-схема алгоритма находится в файле Block_diagram.drawio.png
+
+Код программы в Final_task -> Program.cs 
+
+
+
+
+
+
+
+
